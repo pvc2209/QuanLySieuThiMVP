@@ -42,6 +42,11 @@ namespace QLST
         public void ShowNhanVienView()
         {
             MessageBox.Show("NhanVienView");
+            // Triển khai Form của nhân viên
+            // this.Hide();
+            // var nhanVienForm = new NhanVienForm(); 
+            // nhanVienForm.Closed += (sender, e) => this.Close(); // https://stackoverflow.com/a/13459878
+            // nhanVienForm.Show();
         }
 
         public void ShowQuanLyView()
