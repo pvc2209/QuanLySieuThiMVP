@@ -1,0 +1,10 @@
+C:\Users\pvc\Desktop\QLST\bin\Debug\QLST.exe.config
+C:\Users\pvc\Desktop\QLST\bin\Debug\QLST.exe
+C:\Users\pvc\Desktop\QLST\bin\Debug\QLST.pdb
+C:\Users\pvc\Desktop\QLST\obj\Debug\QLST.csproj.AssemblyReference.cache
+C:\Users\pvc\Desktop\QLST\obj\Debug\QLST.Properties.Resources.resources
+C:\Users\pvc\Desktop\QLST\obj\Debug\QLST.csproj.GenerateResource.cache
+C:\Users\pvc\Desktop\QLST\obj\Debug\QLST.csproj.CoreCompileInputs.cache
+C:\Users\pvc\Desktop\QLST\obj\Debug\QLST.exe
+C:\Users\pvc\Desktop\QLST\obj\Debug\QLST.pdb
+C:\Users\pvc\Desktop\QLST\obj\Debug\QLST.LoginForm.resources
